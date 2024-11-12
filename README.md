@@ -22,6 +22,7 @@ devtunnel host
 ```
 ##### 2. Add the required API Keys and endpoints
 Open the Properties\launchSettings.json file to configure the following settings:
+
     - `VS_TUNNEL_URL`: your dev tunnel endpoint
     - `applicationUrl`: the localhost port that your local app is running on
 
